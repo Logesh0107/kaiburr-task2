@@ -1,0 +1,8 @@
+target/
+*.log
+*.class
+.idea/
+.vscode/
+*.iml
+.dockerignore
+.DS_Store
